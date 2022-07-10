@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/module2_nav_graph"
+    app:startDestination="@id/fragmentFour">
+    <fragment
+        android:id="@+id/fragmentFour"
+        android:name="com.example.module2.FragmentFour"
+        android:label="FragmentFour" />
+</navigation>

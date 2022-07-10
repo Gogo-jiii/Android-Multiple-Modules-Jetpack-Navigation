@@ -1,0 +1,5 @@
+rootProject.name = "Jetpack Navigation"
+include ':app'
+include ':app:module1'
+include ':app:commonmodule'
+include ':app:module2'
