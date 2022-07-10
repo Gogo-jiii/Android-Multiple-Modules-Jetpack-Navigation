@@ -7,7 +7,7 @@ android {
     buildToolsVersion '33.0.0 rc2'
 
     defaultConfig {
-        applicationId "com.example.navigationcomponent"
+        applicationId "com.example.multiplemodulesjetpacknavigation"
         minSdkVersion 21
         targetSdkVersion 32
         versionCode 1

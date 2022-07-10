@@ -1,4 +1,4 @@
-package com.example.jetpacknavigation;
+package com.example.multiplemodulesjetpacknavigation;
 
 import org.junit.Test;
 

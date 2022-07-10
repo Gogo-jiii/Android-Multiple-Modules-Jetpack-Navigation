@@ -4,7 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/module2_nav_graph"
     app:startDestination="@id/fragmentFour">
+
     <fragment
+        tools:layout="@layout/fragment_four"
         android:id="@+id/fragmentFour"
         android:name="com.example.module2.FragmentFour"
         android:label="FragmentFour" />

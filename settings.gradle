@@ -1,4 +1,4 @@
-rootProject.name = "Jetpack Navigation"
+rootProject.name = "Multiple Modules Jetpack Navigation"
 include ':app'
 include ':app:module1'
 include ':app:commonmodule'
