@@ -4,7 +4,4 @@
     app:startDestination="@navigation/module1_nav_graph"
     android:id="@+id/nav_graph">
 
-    <include app:graph="@navigation/module1_nav_graph" />
-    <include app:graph="@navigation/module2_nav_graph" />
-
 </navigation>
